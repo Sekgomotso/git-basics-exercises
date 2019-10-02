@@ -1,0 +1,256 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  sudo apt install node.js
+    4  sudo apt dist-upgrade
+    5  sudo apt install npm
+    6  sudo apt install git
+    7  ls
+    8  pwd
+    9  sudo apt install git build-essential dkms
+   10  pwd
+   11  ls
+   12  cd Desktop/
+   13  git clone -b extended https://github.com/lwfinger/rtlwifi_new.git
+   14  sudo dkms add ./rtlwifi_new
+   15  sudo dkms install rtlwifi-new/0.6
+   16  ls
+   17  pwd
+   18  mkdir workspace
+   19  cd -/workspace/
+   20  cd workspace
+   21  ls
+   22  touch README.md
+   23  ls
+   24  cp README.md/CHANGELOG.md
+   25  ls
+   26  cp README.md
+   27  cp --help
+   28  sudo modprobe -r rtl8723de && sudo modprobe rtl8723de
+   29  cd Desktop/
+   30  sudo modprobe -r rtl8723de && sudo modprobe rtl8723de
+   31  cd ..
+   32  git clone https://github.com/lwfinger/rtlwifi_new.git
+   33  cd rtlwifi_new
+   34  git checkout origin/extended -b extended
+   35  sudo make install
+   36  exit
+   37  cat hoem
+   38  cat home
+   39  cat Desktop
+   40  exit
+   41  nano my_bio.md
+   42  locate pad_copy.md
+   43  ls
+   44  cd Desktop/
+   45  ls
+   46  cd
+   47  cd Desktop/work/
+   48  ls
+   49  locate cohort.md
+   50  locate umuzi
+   51  cd ~
+   52  cd Documents
+   53  ls
+   54  cd
+   55  cp pad.md Documents/ pad_copy.md
+   56  cp pad.md 
+   57  ls Documents/
+   58  cp -a Documents/*
+   59  cp pad.md pad_copy.md
+   60  cp pad pad_copy.md
+   61  locate pad
+   62  locate pad.md
+   63  cp pad.md 
+   64  cp pad.md Documents/
+   65  locate updateb
+   66  cd Desktop
+   67  cd work
+   68  cd
+   69  cd Desktop
+   70  cd
+   71  locate umuzi
+   72  locate pad.md
+   73  cd Documents
+   74  cp pad.md pad_copy.md
+   75  ls
+   76  rm pad_copy.md
+   77  ls
+   78  cd
+   79  cd Desktop
+   80  cp ~/pad.md pad_copy.md
+   81  cp ~pad.md pad_copy.md
+   82  cp pad.md /Documents pad_copy.md
+   83  cp pad.md /Ddocuments
+   84  cd
+   85  cd Documents
+   86  ls
+   87  cp pad.md pad_copy.md
+   88  ls
+   89  rm pad_copy.md
+   90  cp pad.md ~/pad_copy.md
+   91  ls
+   92  cp pad.md ~/pad_copy.md
+   93  ;s
+   94  ls
+   95  cp pad.md
+   96  cp pad.md pad_copy.md ?Desktop
+   97  cp pad.md pad_copy.md /Desktop
+   98  ls
+   99  cd
+  100  cd Desktop
+  101  ls
+  102  cp pad.md Documents/
+  103  cd
+  104  cd -
+  105  cd
+  106  cd Documents
+  107  ls
+  108  cp pad.md pad_copy.md
+  109  ls
+  110  locate updateb
+  111  cd-
+  112  cd -
+  113  locate pad_copy.md
+  114  locate pad.md
+  115  locate pad_copy.md
+  116  cd Documents
+  117  ls
+  118  locate pad_copy.d
+  119  locate pad_copy.md
+  120  rm pad_copy.md
+  121  ls
+  122  cd
+  123  cp pad.md
+  124  cp pad.md /Documents
+  125  pw
+  126  pwd
+  127  find ./sekgomotso -name *.pdf
+  128  find ./Desktop -name *.pdf
+  129  nano 
+  130  nano my_bio.md
+  131  mkdir my_files 
+  132  ls
+  133  mv my_bio.md /my_files
+  134  cd /tmp
+  135  ls
+  136  cd tmp/
+  137  cd
+  138  cd tmp/
+  139  ls
+  140  cd
+  141  ls
+  142  cd summary.md
+  143  echo "Umuzi is the home of creatives." 1>umuzi.md
+  144  umuzi.md
+  145  echo "Umuzi is the home of creatives." >umuzi.md
+  146  umuzi.md
+  147  echo $ "Umuzi is the home of creatives." >umuzi.md
+  148  umuzi.md
+  149  cat umuzi.md
+  150  echo "Umuzi is the home of creatives." 1>umuzi.md
+  151  cat umuzi.md
+  152  cat cohort.md
+  153  cat recruits.md
+  154  touch Luyanda.md
+  155  ls
+  156  cat
+  157  rm Luyanda.md
+  158  ls
+  159  echo "Umuzi is the home of creatives." 1>umuzi.md
+  160  ls
+  161  locate my_bio
+  162  locate my_bio.md
+  163  nano my_bio.md
+  164  locate my_bio.md
+  165  cat cohort.md
+  166  sudo apt install terminator
+  167  ls
+  168  rmdir tmp/
+  169  ls
+  170  cd/
+  171  ls 
+  172  cd /
+  173  ls
+  174  touch exercise.md
+  175  cd
+  176  ls
+  177  touch exercise.md
+  178  ls
+  179  mv exercise.md /tmp
+  180  cd /
+  181  ls
+  182  cd tmp
+  183  la
+  184  ls
+  185  rm /tmp/exercise.md
+  186  ls
+  187  cd -
+  188  touch exercise.md
+  189  ls
+  190  cd
+  191  touch exercise.md
+  192  ls
+  193  mv exercise.md /tmp
+  194  cd /
+  195  ls
+  196  cd tmp
+  197  ls
+  198  cd ~
+  199  sudo rm /tmp/exercise.md
+  200  cd /
+  201  cd tmp
+  202  ls
+  203  cd ~
+  204  locate "umuzi" > search_result.md
+  205  locate "umuzi" > search_result.txt
+  206  ls
+  207  cat search_result.md
+  208  rm search_result.txt
+  209  find "./Desktop -name *.pdf" > cp /work
+  210  ls
+  211  cd Desktop/
+  212  ls
+  213  cd ~
+  214  find ./Desktop -name *.pdf 
+  215  find "*.pdf"
+  216  find " *.pdf"
+  217  locate " *.pdf"
+  218  find " *.pdf"
+  219  find ./Desktop -name *.pdf 
+  220  find ./home -name *.pdf 
+  221  find *.pdf
+  222  find .pdf
+  223  find . -pdf
+  224  git log
+  225  git checkout
+  226  git checkout 952a75f875b5e66df881eff70c2ef2277b923256
+  227  git checkout commit 952a75f875b5e66df881eff70c2ef2277b923256
+  228  git checkout 952a75f875b5e66df881eff70c2ef2277b923256
+  229  cat README.md
+  230  git checkout master
+  231  cat README.md 
+  232  git branch
+  233  git branch "milkshake-flavours"
+  234  ls
+  235  git branch
+  236  rm milkshake-flavours
+  237  rm /branch/milkshake-flavours
+  238  git checkout milkshake-flavours
+  239  git branch
+  240  git checkout milkshake-flavours
+  241  git branch
+  242  git checkout master
+  243  git branch
+  244  git checkout milkshake-flavours
+  245  nano milkshake.md
+  246  git status
+  247  git add milkshake.md
+  248  git commit -m "added initial flavours"
+  249  git log
+  250  git checkout master
+  251  git branch
+  252  git checkout master
+  253  git checkout -b history master
+  254  git checkout history
+  255  git log
+  256  history > history.txt
